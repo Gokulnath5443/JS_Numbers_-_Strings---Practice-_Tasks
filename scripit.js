@@ -42,7 +42,7 @@
 //  Write a JavaScript program that takes a number and formats it as currency (for example, in Indian Rupees).
 //  ans:discuss krishna 
 
-// let rupees=prompt("Enter your amount :")
+// let rupees=Number(prompt("Enter your amount :"))
 // newNum="₹"+rupees.toLocaleString('en-IN');
 // console.log(`Ans: Formatted amount:${newNum}`)
 
