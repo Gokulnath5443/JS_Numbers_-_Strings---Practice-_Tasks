@@ -1,7 +1,7 @@
 // Task 1: Round a Decimal Number
 // Problem:
 //  Given a decimal number, display its rounded value using JavaScript’s Math methods.
-//  ans:
+//  ans:self code
 
 // let num=Number(prompt("Enter your number :"))
 
@@ -14,7 +14,7 @@
 // Task 2: Generate a Random Number between Two Values
 // Problem:
 //  Write a program that generates a random integer between two given numbers (inclusive).
-//  ans:
+//  ans:self code
 
 //  let x=parseInt(prompt("Enter your min value :"))
 // let y=parseInt(prompt("Enter your max value :"))
@@ -40,14 +40,14 @@
 // Task 4: Format a Number as Currency
 // Problem:
 //  Write a JavaScript program that takes a number and formats it as currency (for example, in Indian Rupees).
-//  ans:discuss krishna 
+//  ans: discuss krishna 
 
 // let rupees=Number(prompt("Enter your amount :"))
 // newNum="₹"+rupees.toLocaleString('en-IN');
 // console.log(`Ans: Formatted amount:${newNum}`)
 
 // Task 5: Calculate Compound Interest
-// ans:
+// ans:self code
 
 // let p=prompt("Enter your principal value :")
 // let r=prompt("Enter your rate value :")
@@ -65,7 +65,7 @@
 //  Task 6: Convert Case and Reverse a String
 // Problem:
 //  Write a program that converts all letters in a string to uppercase and also prints the reversed version of the string.
-// ans:
+// ans:self code
 
 // let str=prompt("Enter your string :")
 // let newstr=""
@@ -78,7 +78,7 @@
 // Task 7: Check for Palindrome
 // Problem:
 //  Write a program that checks whether a given string reads the same backward and forward (ignoring case and spaces).
-// ans:
+// ans:self code
 
 // let str=prompt("Enter your string :")
 // let newstr=""
@@ -134,8 +134,8 @@
 // Task : 10. Remove Duplicate Characters
 // Problem:
 //  Write a JavaScript program that removes duplicate characters from a string.
-// Sample Input:self code
-// ans:
+// Sample Input:
+// ans:self code
 
 // let str=prompt("Enter you string :")
 // newStr=""
